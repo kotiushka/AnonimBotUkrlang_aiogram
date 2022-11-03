@@ -1,23 +1,10 @@
 
-ENGLISH
+Файли, які зараз ось тут викладені, мають робочий код анонімного чат-бота, **з пошуком по гендеру, віку, країні, профілю, та можливістю підключити пошук по місту.**
+Також у цьому коді декілька багів при пошуку (пошук працює, але наприклад якщо декілька раз натиснути кнопку пошуку, знайдеш сам себе та ін.) Немає оплат.
 
+**За невелику допомогу, скину вам готову версію бота з пошуком по місту, готовою оплатою на картку з видачею віп, та пофікшеними багами. Пишіть в телеграм.
+@oduvanck**
 
-BOT :
+**ось декілька фото бота:**
 
-I don't do much programming, so the code may be on crutches, but everything works.
-
-To put the code on your bot, change "YOUR_TOKEN" to your token to change the bot's token. In order for you to successfully use the admin panel, mailing list, subscription control, etc., you need to add your telegram nickname without @ in the anonims.db database in the `users` table.
-If you have any questions, send me message from telegram account @oduvanck
-
-
-
-БОТ:
-
-Я небагато займаюсь програмуванням, і тому код може бути з костилями, але все парацює.
-
-
-За невелику допомогу, скину вам готову версію бота з пошуком по місту, готовою оплатою на картку з видачею віп, та повікшеними багами. Пишіть в телеграм.
-@oduvanck
-
-Щоб додати код до свого бота, змініть "YOUR_TOKEN" на свій маркер, щоб змінити маркер бота. Для успішного користування адмінпанеллю, списком розсилки, контролем підписки тощо вам необхідно додати свій нік у телеграмі без @ у базі даних anonims.db у таблиці `users`.
-Якщо у вас виникнуть запитання, надішліть мені повідомлення з Telegram-аккаунта @oduvanck
+![](photos/1.jpg)
